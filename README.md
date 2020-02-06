@@ -2,15 +2,15 @@
 Cypress Lighthouse Plugin is a lighthouse plugin that adds the `cy.lighthouse` command to audit websites against the lighthouse performance metrics. 
 ## Installation
 Use npm or yarn to install cypress-lighthouse
-```
+```shell
 npm install cypress-lighthouse
 ```
-```
+```shell
 yarn add cypress-lighthouse
 ```
 
 Import the commands at the top of your test file. 
-```
+```javascript
 import 'cypress-lighthouse';
 ```
 

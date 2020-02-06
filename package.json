@@ -1,0 +1,25 @@
+{
+  "name": "cypress-lighthouse",
+  "version": "0.1.0",
+  "description": "Lighthouse Runner for within Cypress",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "author": {
+    "email": "georgekemp94@gmail.com",
+    "name": "George Kemp"
+  },
+  "files": [
+    "index.js",
+    "index.d.ts"
+  ],
+  "license": "MIT",
+  "dependencies": {
+    "lighthouse": "^5.6.0"
+  },
+  "peerDependencies": {
+    "cypress": "^3.8.3"
+  },
+  "devDependencies": {
+    "cypress": "^3.8.3"
+  }
+}

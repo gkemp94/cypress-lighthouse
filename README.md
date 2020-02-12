@@ -1,6 +1,6 @@
 # Cypress Lighthouse Plugin
 
-Cypress Lighthouse Plugin is a lighthouse plugin that adds the `cy.lighthouse()` command to audit websites against the lighthouse performance metrics. 
+accessibilityCypress Lighthouse Plugin is a cypress plugin that adds the `cy.lighthouse()` command to audit websites against the lighthouse performance metrics. The command runs performance, accessibility, best practices, seo and progressive web app tests using Google's [Lighthouse](https://github.com/GoogleChrome/lighthouse) Tool and returns an object with a score out of 1 for each category.
 
 ## Installation
 
